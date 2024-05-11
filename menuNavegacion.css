@@ -1,0 +1,10 @@
+h1{
+    text-decoration: none;
+    color: rgb(223, 70, 70);
+}
+li{
+    list-style-type: none;
+    display: inline;
+    margin: 0 10px;
+    color: royalblue;
+}
